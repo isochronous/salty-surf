@@ -1,5 +1,7 @@
 # Salty Surf
 
+**This repository is archived.** This project now lives in [isochronous/ONI-Mods](https://github.com/isochronous/ONI-Mods/tree/main/mods/salty-surf), with its full history; work and new releases continue there. The releases published here stay available.
+
 An [Oxygen Not Included](https://www.klei.com/games/oxygen-not-included) mod: the Mechanical Surfboard runs on Salt Water as well as Water.
 
 ## What the mod does
